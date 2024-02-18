@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/tejas-kale-96346321a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tejas-kale-96346321a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kaletej1312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kaletej1312" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/tejas-kale-96346321a" target="blank"><img align="center" src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlua2VkaW58ZW58MHx8MHx8fDA%3D" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@kaletej1312" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="hackerrank" height="30" width="40" /></a>
 <a href="https://replit.com/@kaletej1312" target="_blank"><img align="center" src="https://cdn.sanity.io/images/bj34pdbp/migration/3c2f2d404a571d2c9fbca934360352698d63433a-1920x900.png" alt="replit" height="30"
 width="40"/></a>
 </p>
