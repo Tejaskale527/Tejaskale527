@@ -21,6 +21,7 @@
 <a href="https://www.hackerrank.com/profile/kaletej1312" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="hackerrank" height="30" width="40" /></a>
 <a href="https://replit.com/@kaletej1312" target="_blank"><img align="center" src="https://cdn.sanity.io/images/bj34pdbp/migration/3c2f2d404a571d2c9fbca934360352698d63433a-1920x900.png" alt="replit" height="30"
 width="40"/></a>
+<a href="https://github.com/tejaskale527" target="_blank"> <img  align="center" src="https://editor.analyticsvidhya.com/uploads/765900ba9-article-200807-github-gitguardbody-text.jpg" height="30" width="40"</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
